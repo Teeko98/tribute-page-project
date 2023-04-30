@@ -1,0 +1,51 @@
+body {
+  background: #f5f2f0;
+  color: #1b1b32;
+  font-family: 'Roboto', 'Helvetica Neue', Arial;
+  margin: auto;
+}
+
+main {
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+h2 {
+  margin-top: 0px;
+  text-align: center;
+}
+
+ul {
+  margin: auto;
+  width: 60%;
+}
+
+li{
+  padding-bottom: 10px;
+}
+
+#img-div {
+  margin: auto;
+}
+
+#img-caption {
+  margin: auto;
+  text-align: center;
+  font-style: italic;
+}
+
+#tribute-info {
+  width: 60%;
+  margin: auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
